@@ -1,2 +1,2 @@
 # FZ100
-Digitale Schaltungen FZ 100 LSL-Serie
+[Integrierte Digitale-Schaltungen der LSL-Serie FZ 100](https://github.com/brickpool/FZ100/wiki)
